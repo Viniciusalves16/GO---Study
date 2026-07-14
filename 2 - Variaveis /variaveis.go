@@ -26,8 +26,4 @@ func main() {
 	const constante string = "Sou uma constante" // constante nao pode ser alterada
 	fmt.Println(constante)
 
-
-var variavel7 := "oi" // declarando variavel sem valor inicial, ela recebe o valor default do tipo dela
-	fmt.Println(variavel7) // valor default de string é vazio
-
 }
